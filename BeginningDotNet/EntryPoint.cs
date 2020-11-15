@@ -30,6 +30,8 @@
             }
 
         Console.WriteLine("Thank you for entering your confirmed Salary");
+        Console.WriteLine("The End");
         }
+    
     }
 
