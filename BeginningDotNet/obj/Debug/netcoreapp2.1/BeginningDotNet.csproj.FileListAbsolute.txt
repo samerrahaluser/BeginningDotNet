@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BeginningDotNet\BeginningDotNet\bin\Debug\netcoreapp2.1\BeginningDotNet.deps.json
+C:\Users\User\source\repos\BeginningDotNet\BeginningDotNet\bin\Debug\netcoreapp2.1\BeginningDotNet.runtimeconfig.json
+C:\Users\User\source\repos\BeginningDotNet\BeginningDotNet\bin\Debug\netcoreapp2.1\BeginningDotNet.runtimeconfig.dev.json
+C:\Users\User\source\repos\BeginningDotNet\BeginningDotNet\bin\Debug\netcoreapp2.1\BeginningDotNet.dll
+C:\Users\User\source\repos\BeginningDotNet\BeginningDotNet\bin\Debug\netcoreapp2.1\BeginningDotNet.pdb
+C:\Users\User\source\repos\BeginningDotNet\BeginningDotNet\obj\Debug\netcoreapp2.1\BeginningDotNet.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BeginningDotNet\BeginningDotNet\obj\Debug\netcoreapp2.1\BeginningDotNet.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BeginningDotNet\BeginningDotNet\obj\Debug\netcoreapp2.1\BeginningDotNet.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BeginningDotNet\BeginningDotNet\obj\Debug\netcoreapp2.1\BeginningDotNet.AssemblyInfo.cs
+C:\Users\User\source\repos\BeginningDotNet\BeginningDotNet\obj\Debug\netcoreapp2.1\BeginningDotNet.dll
+C:\Users\User\source\repos\BeginningDotNet\BeginningDotNet\obj\Debug\netcoreapp2.1\BeginningDotNet.pdb
