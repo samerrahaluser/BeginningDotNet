@@ -29,7 +29,7 @@
                 Salary = double.Parse(Console.ReadLine());
             }
 
-        Console.WriteLine("Thank you for entering correct Salary");
+        Console.WriteLine("Thank you for entering your Salary");
         }
     }
 
