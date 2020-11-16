@@ -28,7 +28,6 @@
                 Console.Write("Please enter Salary greater than 1K: ");
                 Salary = double.Parse(Console.ReadLine());
             }
-
         Console.WriteLine("Thank you for entering your confirmed Salary");
        // Console.WriteLine("The End");
     }
