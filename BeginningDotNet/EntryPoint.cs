@@ -12,12 +12,12 @@
             //Console Readline for String
             String Name;
             
-            Console.Write("Please enter your name: ");
+            Console.Write("Please enter your name:  ");
             Name = Console.ReadLine();
 
             //Console Readline for Int
             int Age;
-            Console.Write("Please enter your age: ");
+            Console.Write("Please enter your age:  ");
             Age = int.Parse(Console.ReadLine());
 
 
