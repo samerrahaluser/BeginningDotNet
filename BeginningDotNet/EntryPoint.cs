@@ -12,12 +12,12 @@
             //Console Readline for String
             String Name;
             
-            Console.Write("Please enter your name:  ");
+            Console.Write("Please enter your name:");
             Name = Console.ReadLine();
 
             //Console Readline for Int
             int Age;
-            Console.Write("Please enter your age:  ");
+            Console.Write("Please enter your age:");
             Age = int.Parse(Console.ReadLine());
 
 
@@ -25,7 +25,7 @@
             double Salary = 0;
             while(Salary<1000)
             {
-                Console.Write("Please enter Salary greater than 1K: ");
+                Console.Write("Please enter Salary greater than 1K:");
                 Salary = double.Parse(Console.ReadLine());
             }
         Console.WriteLine("Thank you for entering your confirmed Salary");
