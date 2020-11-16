@@ -23,9 +23,9 @@
 
             //While loop to check Salary if less than 3K
             double Salary = 0;
-            while(Salary<3000)
+            while(Salary<1000)
             {
-                Console.Write("Please enter Salary greater than 3K: ");
+                Console.Write("Please enter Salary greater than 1K: ");
                 Salary = double.Parse(Console.ReadLine());
             }
 
