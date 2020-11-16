@@ -25,7 +25,7 @@
             double Salary = 0;
             while(Salary<1000)
             {
-                Console.Write("Please enter Salary greater than 1K: ");
+                Console.Write("Please enter Salary greater than 1git statK: ");
                 Salary = double.Parse(Console.ReadLine());
             }
 
