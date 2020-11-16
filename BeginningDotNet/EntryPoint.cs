@@ -5,8 +5,8 @@
     {
         static void Main()
         {
-            Console.WriteLine("Hello World");
-            //cw + tab + tab
+            Console.WriteLine("Hello my World");
+            
             Console.WriteLine("New One");
 
             //Console Readline for String
